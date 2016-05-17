@@ -1,0 +1,5 @@
+D:\Projects\UmbracoTest\umbraco-db\bin\Debug\umbraco-db.dacpac
+D:\Projects\UmbracoTest\umbraco-db\bin\Debug\umbraco_db.dll
+D:\Projects\UmbracoTest\umbraco-db\bin\Debug\umbraco_db.pdb
+D:\Projects\UmbracoTest\umbraco-db\obj\Debug\umbraco_db.dll
+D:\Projects\UmbracoTest\umbraco-db\obj\Debug\umbraco_db.pdb
