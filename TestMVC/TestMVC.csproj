@@ -483,6 +483,31 @@
     <Content Include="Umbraco\Webservices\TreeDataService.ashx" />
     <Content Include="Umbraco\Webservices\UltimatePickerAutoCompleteHandler.ashx" />
     <Content Include="Umbraco\Xslt\Web.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\CopyLogs\UmbracoBinBackup.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\404handlers.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\applications.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\BaseRestExtensions.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\ClientDependency.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Dashboard.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\EmbeddedMedia.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\ExamineIndex.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\ExamineSettings.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\feedProxy.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\FileSystemProviders.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\log4net.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\metablogConfig.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\scripting.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\tinyMceConfig.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\trees.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\umbracoSettings.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\UrlRewriting.config" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\CopyLogs\ConfigBackup.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\CopyLogs\UmbracoBackup.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\CopyLogs\UmbracoClientBackup.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\CopyLogs\UmbracoClientCopy.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\CopyLogs\UmbracoCopy.log" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Web.config" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -491,9 +516,107 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\AutoMapper.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\AutoMapper.Net4.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\businesslogic.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\ClientDependency.Core.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\ClientDependency.Core.Mvc.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\cms.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\controls.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\CookComputing.XmlRpcV2.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Examine.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\HtmlAgilityPack.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\ImageProcessor.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\ImageProcessor.Web.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\interfaces.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\log4net.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Lucene.Net.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\MarkdownSharp.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.Agent.Intercept.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.DependencyCollector.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.PerfCounterCollector.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.ServerTelemetryChannel.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.Web.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AI.WindowsServer.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.ApplicationBlocks.Data.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.ApplicationInsights.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AspNet.Identity.Core.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.AspNet.Identity.Owin.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.CodeAnalysis.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Owin.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Owin.Host.SystemWeb.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Owin.Security.Cookies.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Owin.Security.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Owin.Security.OAuth.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\MiniProfiler.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\MySql.Data.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Newtonsoft.Json.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Owin.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Semver.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\SQLCE4Umbraco.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Collections.Immutable.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Data.SqlServerCe.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Data.SqlServerCe.Entity.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Net.Http.Formatting.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Reflection.Metadata.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.Helpers.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.Http.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.Http.WebHost.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.Mvc.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.Razor.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.WebPages.Deployment.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.WebPages.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\System.Web.WebPages.Razor.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\TidyNet.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Umbraco.Core.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\umbraco.DataLayer.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\umbraco.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\umbraco.editorControls.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\umbraco.MacroEngines.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Umbraco.ModelsBuilder.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\umbraco.providers.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\Umbraco.Web.UI.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\UmbracoExamine.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-221257\bin\UrlRewritingNet.UrlRewriter.dll" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\grid.editors.config.js" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\cs-CZ.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\da-DK.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\de-DE.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\en-GB.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\en-US.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\es-ES.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\fr-FR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\he-IL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\it-IT.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\ja-JP.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\ko-KR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\nb-NO.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\nl-NL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\pl-PL.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\pt-BR.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\ru-RU.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\sv-SE.user.xml" />
+    <Content Include="App_Data\NuGetBackup\20160517-222940\Config\Lang\zh-CN.user.xml" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.controller.js" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.htm" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.resource.js" />
+    <Content Include="bin\MarkdownSharp.dll" />
+    <Content Include="bin\Microsoft.AI.Agent.Intercept.dll" />
+    <Content Include="bin\Microsoft.AI.DependencyCollector.dll" />
+    <Content Include="bin\Microsoft.AI.PerfCounterCollector.dll" />
+    <Content Include="bin\Microsoft.AI.ServerTelemetryChannel.dll" />
+    <Content Include="bin\Microsoft.AI.Web.dll" />
+    <Content Include="bin\Microsoft.AI.WindowsServer.dll" />
+    <Content Include="bin\Microsoft.ApplicationInsights.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\TestMVC.dll" />
+    <Content Include="bin\TestMVC.pdb" />
     <Content Include="Config\grid.editors.config.js" />
     <Content Include="Config\Lang\cs-CZ.user.xml" />
     <Content Include="Config\Lang\da-DK.user.xml" />
@@ -2959,9 +3082,14 @@
     <Content Include="Umbraco_Client\Ui\ui-lightness\images\ui-icons_ffd27a_256x240.png" />
     <Content Include="Umbraco_Client\Ui\ui-lightness\images\ui-icons_ffffff_256x240.png" />
     <Content Include="Umbraco_Client\Ui\ui-lightness\jquery-ui.custom.css" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -2969,6 +3097,9 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Data\NuGetBackup\20160517-222940\Umbraco\" />
+    <Folder Include="App_Data\NuGetBackup\20160517-222940\Umbraco_Client\" />
+    <Folder Include="obj\Debug\TempPE\" />
     <Folder Include="Umbraco\Config\Create\" />
   </ItemGroup>
   <PropertyGroup>
